@@ -1,0 +1,3 @@
+4.- R= considero que con la librería scikit-learn es la manera más sencilla de ajustar los datos ya que solo con el ajuste de datos de la regresión nos proporciona la tarea del ajuste más adecuado para la curva para el polinomio 
+
+En conclusión, cualquiera de las dos herramientas nos sirve de manera eficaz gracias al grado de complejidad podemos evitar una gran cantidad de operaciones matemáticas y de igual manera vemos como las herramientas de Python y así como las librerías de pandas y matplotib nos proporcionan una herramienta matemática muy útil para el estudio y un avance más detallado de manera gratuita 
